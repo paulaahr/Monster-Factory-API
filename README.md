@@ -154,18 +154,7 @@ main
 Rama de desarrollo del entregable:
 
 ```text
-feature/monster-api
-```
-
-Ejemplos de commits descriptivos:
-
-```text
-chore: initialize Express TypeScript project
-feat: add monster domain and in-memory service
-feat: add CRUD routes and controllers
-feat: add validation and custom middleware
-docs: add README and manual API tests
-```
+feature/monster-api```
 
 ## Relación con el proyecto anterior
 
